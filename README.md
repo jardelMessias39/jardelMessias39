@@ -13,18 +13,19 @@ Me chamo Jardel Messias sou programador FullStack estudo na empresa Devclub, atu
 <!-- Email -->
 <a href="mailto:jardel.messias.dev@gmail.com" target="_blank">
   <img width="80" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a> &nbsp;
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/jardel-messias-desenvolvedor" target="_blank">
   <img width="80" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> &nbsp;
+
+
+  <!-- Portfólio -->
+<a href="https://www.jardelmessias.com.br" target="_blank">
+  <img width="200" alt="Portfólio" src="https://raw.githubusercontent.com/jardelMessias39/jardelMessias39/main/assets/portfolio.png" />
 </a>
 
-<!--Portfólio -->
-   <!-- Portfólio -->
-<a href="https://www.jardelmessias.com.br" target="_blank">
-  <img width="90" height="80" alt="Portfólio" src="https://raw.githubusercontent.com/jardelMessias39/jardelMessias39/main/assets/portfolio.png" />
-</a>
 
 <p>&nbsp;</p>
 
