@@ -9,7 +9,7 @@ Me chamo Jardel Messias sou programador FullStack estudo na empresa Devclub, atu
 
 <br>
 
-<a href=" jardel.messias.dev@gmail.com"><img  width =80 align="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                      <a href= "www.linkedin.com/in/jardel-messias-desenvolvedor"><img width =80  align="center" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br> <a href="jardelmessias.com.br"><img width="90" height="80" alt="image" src="https://github.com/user-attachments/assets/d98d8283-588a-427b-8339-0b5e1c406016" /></a>
+<a href=" jardel.messias.dev@gmail.com"><img  width =80 align="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                      <a href= "www.linkedin.com/in/jardel-messias-desenvolvedor"><img width =80  align="center" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>       <a href="www.jardelmessias.com.br"><img width="90" height="80" alt="image" src="https://github.com/user-attachments/assets/d98d8283-588a-427b-8339-0b5e1c406016" /></a>
 
 
 
