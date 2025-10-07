@@ -15,11 +15,11 @@
 
 <p>&nbsp;</p>
 
-<3><p><b><span>Frameworks:</span></p></b></h3>
+<h3><p><b><span>Frameworks:</span></p></b></h3>
 <p align="center">
 <!-- React -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <!-- Vercel -->
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <!-- Render -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
