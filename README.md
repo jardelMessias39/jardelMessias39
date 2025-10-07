@@ -3,7 +3,7 @@
 Me chamo Jardel Messias sou programador FullStack estudo na empresa Devclub, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
-<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "HTML-logo"/>   <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt = "CSS-logo"/>   <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "Script"/>    <img src = "https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt = "React-logo"/>
+<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "HTML-logo"/>   &nbsp; <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt = "CSS-logo"/>  &nbsp; <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "Script"/>  &nbsp;  <img src = "https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt = "React-logo"/>
 
 
 
@@ -22,9 +22,20 @@ Me chamo Jardel Messias sou programador FullStack estudo na empresa Devclub, atu
 
 
   <!-- Portfólio -->
-<a href="https://www.jardelmessias.com.br" target="_blank">
-  <img width="200" alt="Portfólio" src="https://raw.githubusercontent.com/jardelMessias39/jardelMessias39/main/assets/portfolio.png" />
-</a>
+<p align="center">
+  <!-- Imagem personalizada -->
+  <a href="https://www.jardelmessias.com.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/jardelMessias39/jardelMessias39/main/assets/portfolio.png" alt="Imagem do Portfólio" width="250" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Badge com nome -->
+  <a href="https://www.jardelmessias.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio Badge" />
+  </a>
+</p>
+
 
 
 <p>&nbsp;</p>
