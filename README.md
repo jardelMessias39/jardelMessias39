@@ -31,12 +31,13 @@ Sou desenvolvedor FullStack, estudante na DevClub, apaixonado por transformar id
     <td>
       <h3>📁 Portfólio</h3>
       <p align="justify">
-  Um site pessoal moderno e responsivo para apresentar meus projetos, habilidades e contatos. Desenvolvido com HTML, CSS e React.</p>
-
-      <a href="https://www.jardelmessias.com.br" target="_blank">🔗 Acessar projeto</a>
+        Um site pessoal moderno e responsivo para apresentar meus projetos, habilidades e contatos. Desenvolvido com HTML, CSS e React.
+      </p>
+      <a href="https://github.com/jardelMessias39/meu-portfolio-jardel" target="_blank">🔗 Acessar projeto</a>
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -48,7 +49,7 @@ Sou desenvolvedor FullStack, estudante na DevClub, apaixonado por transformar id
       <p align="justify">
         Aplicativo de receitas brasileiras com filtros por categoria, busca inteligente e layout adaptado para mobile. Feito com React e consumo de API.
       </p>
-     <a href="https://github.com/JardelMessias39/comida-brasil" target="_blank">🔗 Acessar projeto</a>
+     <a href="https://github.com/jardelMessias39/comida-tipica-brasil" target="_blank">🔗 Acessar projeto</a>
     </td>
   </tr>
 </table>
@@ -63,7 +64,7 @@ Sou desenvolvedor FullStack, estudante na DevClub, apaixonado por transformar id
     <p align="justify">
         Jogo interativo de digitação onde o jogador precisa digitar corretamente as palavras que caem do céu antes que elas toquem o fundo da tela. Desenvolvido com JavaScript puro, lógica de tempo e manipulação de DOM para criar uma experiência divertida e educativa.
     </p>
-      <a href="https://github.com/JardelMessias39/game-chuva" target="_blank">🔗 Acessar projeto</a>
+      <a href="https://github.com/jardelMessias39/jogodepalavras" target="_blank">🔗 Acessar projeto</a>
     </td>
   </tr>
 </table>
