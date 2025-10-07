@@ -8,9 +8,10 @@ Me chamo Jardel Messias sou programador FullStack estudo na empresa Devclub, atu
 
 
 <br>
+<p>Contatos:</p>
 
 <!-- Email -->
-<a href="mailto:jardel.messias.dev@gmail.com"target="_blank">
+<a href="mailto:jardel.messias.dev@gmail.com" target="_blank">
   <img width="80" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
