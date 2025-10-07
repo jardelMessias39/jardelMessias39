@@ -15,25 +15,53 @@ Sou desenvolvedor FullStack, estudante na DevClub, apaixonado por transformar id
 <p>&nbsp;</p>
 
 <p>Frameworks:</p>
+<p align="center">
 <!-- React -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <!-- Vercel -->
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <!-- Render -->
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-
+</p>
 
 🧩 Projetos em destaque
-📁 Portfólio
-<a href="https://www.jardelmessias.com.br" target="_blank"> <img src="https://raw.githubusercontent.com/JardelMessias39/JardelMessias39/main/assets/tela-inicial-portfolio.png.png" alt="Projeto Portfólio" width="600" /> </a> 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/JardelMessias39/JardelMessias39/main/assets/tela-inicial-portfolio.png.png" alt="Projeto Portfólio" width="300" />
+    </td>
+    <td>
+      <h3>📁 Portfólio</h3>
+      <p>Um site pessoal moderno e responsivo para apresentar meus projetos, habilidades e contatos. Desenvolvido com HTML, CSS e React.</p>
+      <a href="https://www.jardelmessias.com.br" target="_blank">🔗 Acessar projeto</a>
+    </td>
+  </tr>
+</table>
 
-Um site pessoal moderno e responsivo para apresentar meus projetos, habilidades e contatos. Desenvolvido com HTML, CSS e React.&nbsp;&nbsp;
-🍽️ Comida Brasil
-<a href="https://github.com/JardelMessias39/comida-brasil" target="_blank"> <img src="https://raw.githubusercontent.com/JardelMessias39/JardelMessias39/main/assets/comida-brasil.png" alt="Projeto Comida Brasil" width="600" /> </a> 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/JardelMessias39/JardelMessias39/main/assets/comida-brasil.png" alt="Projeto Comida Brasil" width="600" />
+    </td>
+    <td>
+      <h3>🍽️ Comida Brasil</h3>
+      <p>Aplicativo de receitas brasileiras com filtros por categoria, busca inteligente e layout adaptado para mobile. Feito com React e consumo de API.</p>
+     <a href="https://github.com/JardelMessias39/comida-brasil" target="_blank">🔗 Acessar projeto</a>
+    </td>
+  </tr>
+</table>
 
-Aplicativo de receitas brasileiras com filtros por categoria, busca inteligente e layout adaptado para mobile. Feito com React e consumo de API. &nbsp;&nbsp;
-🎮 Game Chuva
-<a href="https://github.com/JardelMessias39/game-chuva" target="_blank"> <img src="https://raw.githubusercontent.com/JardelMessias39/JardelMessias39/main/assets/Game-chuva.png" alt="Projeto Game Chuva" width="600" /> </a>
+<table>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/JardelMessias39/JardelMessias39/main/assets/Game-chuva.png" alt="Projeto Game Chuva" width="600" />
+    </td>
+    <td>
+      <h3>🎮 Game Chuva</h3>
+      <p>Jogo interativo de digitação onde o jogador precisa digitar corretamente as palavras que caem do céu antes que elas toquem o fundo da tela. Desenvolvido com JavaScript puro, lógica de tempo e manipulação de DOM para criar uma experiência divertida e educativa.</p>
+      <a href="https://github.com/JardelMessias39/game-chuva" target="_blank">🔗 Acessar projeto</a>
+    </td>
+  </tr>
+</table>
 
-Jogo interativo de digitação onde o jogador precisa digitar corretamente as palavras que caem do céu antes que elas toquem o fundo da tela. Desenvolvido com JavaScript puro, lógica de tempo e manipulação de DOM para criar uma experiência divertida e educativa. &nbsp;&nbsp;
 
 
 📊 Minhas estatísticas no GitHub
