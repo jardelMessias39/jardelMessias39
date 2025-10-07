@@ -1,6 +1,6 @@
-👋 Olá! Eu sou Jardel Messias
+👋<span> Olá! Eu sou Jardel Messias </span>
 
-Sou desenvolvedor FullStack, estudante na DevClub, apaixonado por transformar ideias em soluções digitais. Atualmente estou focado em criar projetos com as seguintes tecnologias:
+**Sou desenvolvedor FullStack, estudante na DevClub, apaixonado por transformar ideias em soluções digitais. Atualmente estou focado em criar projetos com as seguintes tecnologias:**
 <br>
 <br>
 🚀 <b> <span>Tecnologias que uso </span> </b>
