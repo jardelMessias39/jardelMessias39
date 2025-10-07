@@ -22,12 +22,6 @@ Me chamo Jardel Messias sou programador FullStack estudo na empresa Devclub, atu
 
 
   <!-- Portfólio -->
-<p align="center">
-  <!-- Imagem personalizada -->
-  <a href="https://www.jardelmessias.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/jardelMessias39/jardelMessias39/main/assets/portfolio.png" alt="Imagem do Portfólio" width="250" />
-  </a>
-</p>
 
 <p align="center">
   <!-- Badge com nome -->
@@ -55,11 +49,15 @@ Me chamo Jardel Messias sou programador FullStack estudo na empresa Devclub, atu
 
 
 
-[![Jardel Messias](https://github-readme-stats.vercel.app/api?username=JardelMessias39)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;</p>
+<p align="center">
+  <a href="https://github.com/JardelMessias39">
+    <img src="https://github-readme-stats.vercel.app/api?username=JardelMessias39" alt="Estatísticas GitHub Jardel Messias" />
+  </a>
+  <br><br>
+  <a href="https://github.com/JardelMessias39">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelMessias39" alt="Linguagens mais usadas Jardel Messias" />
+  </a>
+</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardelMessias39)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;</p>
 
 
