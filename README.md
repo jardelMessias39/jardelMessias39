@@ -22,7 +22,7 @@ Sou desenvolvedor FullStack, estudante na DevClub, apaixonado por transformar id
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
-🧩 <b>Projetos em destaque </b>
+🧩<spam> <b>Projetos em destaque </b></spam>
 <table>
   <tr>
     <td>
