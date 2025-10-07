@@ -5,13 +5,13 @@
 <br>
 <br>
 🚀 <b> <span>Tecnologias que uso </span> </b>
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />  &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &nbsp; <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />  &nbsp; <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> </p>
 
 
 
 <br>
 📫<b> <span> Contatos</span></b>
-<p align="center"> <a href="mailto:jardel.messias.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/jardel-messias-desenvolvedor" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://www.jardelmessias.com.br" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" /> </a> </p>
+<p align="center"> <a href="mailto:jardel.messias.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/jardel-messias-desenvolvedor" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp; <a href="https://www.jardelmessias.com.br" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" /> </a> </p>
 
 <p>&nbsp;</p>
 
