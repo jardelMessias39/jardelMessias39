@@ -1,4 +1,5 @@
-👋<span> Olá! Eu sou Jardel Messias </span>
+<h2>👋 Olá! Eu sou Jardel Messias</h2>
+
 
 **Sou desenvolvedor FullStack, estudante na DevClub, apaixonado por transformar ideias em soluções digitais. Atualmente estou focado em criar projetos com as seguintes tecnologias:**
 <br>
@@ -14,7 +15,7 @@
 
 <p>&nbsp;</p>
 
-<p><b><span>Frameworks:</span></p></b>
+<3><p><b><span>Frameworks:</span></p></b></h3>
 <p align="center">
 <!-- React -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <!-- Vercel -->
@@ -22,11 +23,11 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
-🧩<span> <b>Projetos em destaque </b></span>
+<h3>🧩<span> <b>Projetos em destaque </b></span></h3>
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/JardelMessias39/JardelMessias39/main/assets/tela-inicial-portfolio.png.png" alt="Projeto Portfólio" width="300" />
+      <img src="https://raw.githubusercontent.com/JardelMessias39/JardelMessias39/main/assets/tela-inicial-portfolio.png.png" alt="Projeto Portfólio" width="600" />
     </td>
     <td>
       <h3>📁 Portfólio</h3>
@@ -71,7 +72,7 @@
 
 
 
-📊<b> <span>Minhas estatísticas no GitHub </span></b>
+<h3>📊<b> <span>Minhas estatísticas no GitHub </span></b></h3>
 <p align="center"> <a href="https://github.com/JardelMessias39"> <img src="https://github-readme-stats.vercel.app/api?username=JardelMessias39&show_icons=true&theme=radical" alt="Estatísticas GitHub Jardel Messias" /> </a> </p>
 
 <p align="center"> <a href="https://github.com/JardelMessias39"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelMessias39&layout=compact&theme=radical" alt="Linguagens mais usadas Jardel Messias" /> </a> </p>
