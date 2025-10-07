@@ -16,9 +16,10 @@ Me chamo Jardel Messias sou programador FullStack estudo na empresa Devclub, atu
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/jardel-messias-desenvolvedor"target="_blank">
+<a href="https://www.linkedin.com/in/jardel-messias-desenvolvedor" target="_blank">
   <img width="80" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <!--Portfólio -->
     <a href="https://www.jardelmessias.com.br"><img width="90" height="80" alt="image" src="https://github.com/user-attachments/assets/d98d8283-588a-427b-8339-0b5e1c406016" /></a>
 <br> <br>
